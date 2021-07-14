@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ISSDetectorHMS</string>
+    <string name="track_space_station">Track Space Station</string>
+</resources>
